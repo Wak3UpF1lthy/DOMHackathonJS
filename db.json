@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "name": "Abu",
+      "secondName": "Saparaliev",
+      "number": "+996559041106",
+      "weeklyKPI": "110",
+      "monthlyKPI": "110",
+      "id": 2
+    },
+    {
+      "name": "bro",
+      "secondName": "ididit",
+      "number": "666",
+      "weeklyKPI": "1000",
+      "monthlyKPI": "10000-7",
+      "id": 4
+    },
+    {
+      "name": "bro",
+      "secondName": "imreal",
+      "number": "919",
+      "weeklyKPI": "901",
+      "monthlyKPI": "123",
+      "id": 5
+    },
+    {
+      "name": "abs",
+      "secondName": "ghj",
+      "number": "1235",
+      "weeklyKPI": "4567",
+      "monthlyKPI": "8989",
+      "id": 6
+    },
+    {
+      "name": "huh",
+      "secondName": "btuh",
+      "number": "9090",
+      "weeklyKPI": "300",
+      "monthlyKPI": "1909",
+      "id": 8
+    },
+    {
+      "name": "who are you",
+      "secondName": " i'm?",
+      "number": "9090",
+      "weeklyKPI": "198",
+      "monthlyKPI": "177",
+      "id": 9
+    },
+    {
+      "name": "mucha gracias",
+      "secondName": "aficiol",
+      "number": "SIIUU",
+      "weeklyKPI": "UUU",
+      "monthlyKPI": "UUU",
+      "id": 10
+    }
+  ]
+}

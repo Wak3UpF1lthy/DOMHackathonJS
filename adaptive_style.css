@@ -1,0 +1,167 @@
+@media all and (max-width: 1399px) {
+  .card {
+    width: 40%;
+  }
+}
+@media all and (max-width: 1024px) {
+  .card {
+    width: 23%;
+  }
+}
+@media all and (max-width: 768px) {
+  .card {
+    width: 36%;
+  }
+  .navbar-nav {
+    padding-top: 9px;
+  }
+  .content {
+    padding-top: 70px;
+  }
+}
+@media all and (max-width: 767px) {
+  .card {
+    width: 30%;
+  }
+}
+@media all and (max-width: 683px) {
+  .addbtn {
+    width: 250px;
+  }
+}
+@media all and (max-width: 663px) {
+  .addbtn {
+    width: 240px;
+  }
+}
+@media all and (max-width: 654px) {
+  .addbtn {
+    width: 220px;
+  }
+}
+@media all and (max-width: 632px) {
+  .addbtn {
+    width: 200px;
+  }
+}
+@media all and (max-width: 611px) {
+  .addbtn {
+    width: 160px;
+  }
+}
+@media all and (max-width: 570px) {
+  .addbtn {
+    width: 130px;
+  }
+}
+@media all and (max-width: 540px) {
+  .addbtn {
+    width: 110px;
+  }
+}
+@media all and (max-width: 519px) {
+  .addbtn {
+    width: 90px;
+  }
+}
+@media all and (max-width: 504px) {
+  .addbtn {
+    width: 300px;
+  }
+  .navbar {
+    height: 120px;
+  }
+  .navbar-nav {
+    padding-top: 0px;
+  }
+  .forml {
+    width: 380px;
+  }
+  .srch {
+    width: 130px;
+  }
+  .card {
+    width: 75%;
+  }
+  .content {
+    padding-top: 100px;
+  }
+}
+@media all and (max-width: 425px) {
+  .addbtn {
+    width: 300px;
+  }
+  .navbar {
+    height: 120px;
+  }
+  .navbar-nav {
+    padding-top: 0px;
+  }
+  .forml {
+    width: 380px;
+  }
+  .srch {
+    width: 130px;
+  }
+  .card {
+    width: 75%;
+  }
+  .content {
+    padding-top: 100px;
+  }
+}
+@media all and (max-width: 415px) {
+  .addbtn {
+    width: 270px;
+  }
+}
+@media all and (max-width: 384px) {
+  .addbtn {
+    width: 260px;
+  }
+}
+@media all and (max-width: 375px) {
+  .addbtn {
+    width: 250px;
+  }
+}
+@media all and (max-width: 364px) {
+  .addbtn {
+    width: 230px;
+  }
+}
+@media all and (max-width: 350px) {
+  .addbtn {
+    width: 220px;
+  }
+}
+@media all and (max-width: 332px) {
+  .addbtn {
+    width: 209px;
+  }
+}
+@media all and (max-width: 320px) {
+  .addbtn {
+    width: 200px;
+  }
+}
+@media all and (max-width: 311px) {
+  .addbtn {
+    width: 190px;
+  }
+}
+@media all and (max-width: 301px) {
+  .addbtn {
+    width: 180px;
+  }
+}
+@media all and (max-width: 290px) {
+  .addbtn {
+    width: 170px;
+  }
+}
+@media all and (max-width: 279px) {
+  .addbtn {
+    width: 150px;
+  }
+}

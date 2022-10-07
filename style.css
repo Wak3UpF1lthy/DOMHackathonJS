@@ -1,0 +1,30 @@
+.imglogo {
+  width: 75px;
+  height: 65px;
+  cursor: pointer;
+}
+.content {
+  display: flex;
+  flex-wrap: wrap;
+  padding-top: 55px;
+}
+.navbar {
+  padding: 0 2%;
+  height: 76px;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  z-index: 1;
+}
+.page {
+  height: auto;
+}
+body {
+  height: 100%;
+}
+.card {
+  width: 25%;
+}
+.addbtn {
+  width: 270px;
+}
